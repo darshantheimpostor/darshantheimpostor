@@ -1,4 +1,4 @@
-# 📊 Data Analyst Portfolio
+
 
 ### **Darshan V** | Power BI & Tableau Specialist
 
